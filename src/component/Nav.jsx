@@ -12,7 +12,7 @@ function Nav() {
         </ul>
         <div className="flex flex-row gap-x-8 pr-[5%]">
           <img src="https://asset.cloudinary.com/danntnn1q/1836e25ea2569424adcbd92d9fff2c2d" className="w-6" alt="" />
-          <img src="./images/supercell_make_grey.964b2d8d.svg" className="w-8" alt="" /> 
+          <img src="https://asset.cloudinary.com/danntnn1q/1836e25ea2569424adcbd92d9fff2c2d" className="w-8" alt="" /> 
           <img src="./images/supercell_id_grey.62affa0b.svg" className="w-6" alt="" />
         </div>
         </nav>
