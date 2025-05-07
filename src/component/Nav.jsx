@@ -11,7 +11,7 @@ function Nav() {
           <a href="About Us"><li className="text-zinc-400 hover:text-white">About Us</li></a>
         </ul>
         <div className="flex flex-row gap-x-8 pr-[5%]">
-          <img src="https://asset.cloudinary.com/danntnn1q/1836e25ea2569424adcbd92d9fff2c2d" className="w-6" alt="" />
+          <img src="https://res.cloudinary.com/danntnn1q/image/upload/v1746601585/supercell_make_grey.964b2d8d_dwbttc.svg" className="w-6" alt="" />
           <img src="https://asset.cloudinary.com/danntnn1q/1836e25ea2569424adcbd92d9fff2c2d" className="w-8" alt="" /> 
           <img src="./images/supercell_id_grey.62affa0b.svg" className="w-6" alt="" />
         </div>
